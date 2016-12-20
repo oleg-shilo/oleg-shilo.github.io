@@ -13,7 +13,7 @@ _**For the all CS-Script details go to the project [Documentation Wiki](https://
 
 The following is a simple code sample just to give you the idea about the product:
 
-```C#
+```csharp
 dynamic script = CSScript.LoadCode(
                            @"using System.Windows.Forms;
                              public class Script
