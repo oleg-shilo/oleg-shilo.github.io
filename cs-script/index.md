@@ -1,5 +1,9 @@
 <img align="right" src="https://raw.githubusercontent.com/oleg-shilo/cs-script/master/Source/wiki/images/css_logo_codeplex_256x256_2.png" alt="" style="float:right">
+
 # CS-Script - v3.19.0
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://oleg-shilo.github.io/cs-script/Donation.html)
+
 
 <sub>_The project has been migrated to GitHub from CodePlex: [CS-Script](http://csscriptsource.codeplex.com/)._</sub> 
 
