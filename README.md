@@ -1,15 +1,19 @@
+---
+title: CS-Script
+layout: post
+---
 <img align="right" src="https://raw.githubusercontent.com/oleg-shilo/cs-script/master/Source/wiki/images/css_logo_codeplex_256x256_2.png" alt="" style="float:right">
 
 # CS-Script - v3.19.0
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://oleg-shilo.github.io/cs-script/Donation.html)
 
-<sub>_The project has been migrated to GitHub from CodePlex: [CS-Script](http://csscriptsource.codeplex.com/)._</sub> 
+<sub>_The project has been migrated to GitHub from CodePlex: [CS-Script](http://csscriptsource.codeplex.com/)._</sub>
 
 CS-Script is a CLR (Common Language Runtime) based scripting system which uses ECMA-compliant C# as a programming language.
 
-CS-Script is one of the most mature C# scripting solutions. I become publicly available in a two years after the first release of .NET. 
-CS-Script supports both hosted and standalone execution model. It allows seamlessly switching underlying compiling technology without affecting the code base. Currently supported compilers are Mono, Roslyn and CodeDOM. It offers comprehensive integration with most common development tools. 
+CS-Script is one of the most mature C# scripting solutions. I become publicly available in a two years after the first release of .NET.
+CS-Script supports both hosted and standalone execution model. It allows seamlessly switching underlying compiling technology without affecting the code base. Currently supported compilers are Mono, Roslyn and CodeDOM. It offers comprehensive integration with most common development tools.
 
 _**For the all CS-Script details go to the project [Documentation Wiki](https://github.com/oleg-shilo/cs-script/wiki).**_
 <hr/>
@@ -50,6 +54,6 @@ var SayHello = CSScript.LoadMethod(
                           {
                               Console.WriteLine(greeting);
                           }")
-                         .GetStaticMethod("SayHello" , typeof(string)); 
+                         .GetStaticMethod("SayHello" , typeof(string));
 SayHello("Hello again!");
-``` 
+```
