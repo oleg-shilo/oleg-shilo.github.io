@@ -1,3 +1,8 @@
+---
+layout: page
+title: CS-Script
+---
+
 # CS-Script
 <img align="right" src="https://raw.githubusercontent.com/oleg-shilo/cs-script/master/Source/wiki/images/css_logo_codeplex_256x256_2.png" alt="" style="float:right">
 
@@ -100,4 +105,3 @@ var SayHello = CSScript.LoadMethod(
                          .GetStaticMethod("SayHello" , typeof(string));
 SayHello("Hello again!");
 ```
-
