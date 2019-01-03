@@ -4,15 +4,7 @@
 
 <img align="right" src="https://github.com/oleg-shilo/wixsharp/blob/master/Documentation/wiki_images/wixsharp_logo.png" alt="" style="float:right">
 
-
-# CS-Script - C# scripting platform
-
-[About (md)](about.md)
-[About (html)](about.html)
-[About](about)
-
-
-# Wix# (WixSharp) - managed interface for WiX
+# About CS-Script
 
 **_Framework for building a complete MSI or WiX source code by using script files written with the C# syntax._**
 
