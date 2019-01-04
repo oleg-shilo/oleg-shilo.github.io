@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-# repository: oleg-shilo/oleg-shilo.github.io
+title: "CS-Script"
+description: ECMA-compliant C# based scripting platform.
