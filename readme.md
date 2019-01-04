@@ -4,8 +4,6 @@
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://oleg-shilo.github.io/cs-script/Donation.html)
 
-<sub>_The project has been migrated to GitHub from CodePlex: [CS-Script](http://csscriptsource.codeplex.com/)._</sub>
-
 CS-Script is a CLR (Common Language Runtime) based scripting system which uses ECMA-compliant C# as a programming language.
 
 CS-Script is one of the most mature C# scripting solutions. I become publicly available in a two years after the first release of .NET.
