@@ -18,3 +18,57 @@
         padding:0.2rem 1rem
     }
 }
+
+@media screen and (min-width: 64em) { .main-content { max-width: 84rem; padding: 1rem 3rem; margin: 0 auto; font-size: 1.1rem; } }
+@media screen and (min-width: 42em) and (max-width: 84em) { .main-content { padding: 1rem 2rem; font-size: 1.1rem; } }
+@media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }
+.main-content { max-width: 100%; }
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 32.0%;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+  position: relative;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+
+.column-space {
+    background-color:white;
+    width:1px; 
+}
+
+.column-up_200 {
+    top: -50px;
+}
+
+
+.main_page_content {
+    padding: 20px;
+}
+
+#logo {
+    background-image: url('https://raw.githubusercontent.com/oleg-shilo/cs-script/master/Source/wiki/images/css_logo_codeplex_256x256_2.png');
+    background-size: cover;
+    border-radius: 20%;
+    width: 100px;
+    padding: 20px;
+    offset: 30px;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: -200px;
+}

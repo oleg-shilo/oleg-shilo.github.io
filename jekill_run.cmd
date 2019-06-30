@@ -1,5 +1,6 @@
 echo off
 
+set HOME=%cd%
 set PAGES_REPO_NWO=oleg-shilo/oleg-shilo.github.io
 
 echo source "https://rubygems.org" > Gemfile
