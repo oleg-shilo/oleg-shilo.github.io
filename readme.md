@@ -5,36 +5,36 @@
 <!-- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://oleg-shilo.github.io/cs-script/Donation.html) -->
 
 <div class="row">
-    <i>
-        <div class="column" style="background-color:whitesmoke; ">
-          <h2><a href="https://oleg-shilo.github.io/cs-script">CS-Script Engine</a></h2>
-          <p> CS-Script is one of the most mature C# scripting solutions. It became publicly available in 2004, just two years after the first release of .NET.</p>
-          <p>CS-Script supports both hosted and standalone execution model. This makes it possible to use the script engine as a pure C# alternative for PowerShell or Bash. As well as extending .NET applications with C# scripts executed at runtime by the hosted script engine.</p>
-          <p>It can be run on Win, Linux and Mac.  And it is compatible with .NET 5/Core and higher.</p>
-        </div>
+<i>
+<div class="column" style="background-color:whitesmoke; ">
+<h2><a href="https://oleg-shilo.github.io/cs-script">CS-Script Engine</a></h2>
+<p> CS-Script is one of the most mature C# scripting solutions. It became publicly available in 2004, just two years after the first release of .NET.</p>
+<p>CS-Script supports both hosted and standalone execution model. This makes it possible to use the script engine as a pure C# alternative for PowerShell or Bash. As well as extending .NET applications with C# scripts executed at runtime by the hosted script engine.</p>
+<p>It can be run on Win, Linux and Mac.  And it is compatible with .NET 5/Core and higher.</p>
+</div>
 
-        <div class="column column-space"></div>
+<div class="column column-space"></div>
         
-        <div class="column column" style="background-color:whitesmoke;">
-        <h2><a href="https://www.cs-script.net/integration">Development Tools Integration</a></h2>
-          <p>CS-Script also offers comprehensive integration with most common development tools and utilities: 
-          </p><ul>
-            <li><a href="https://github.com/oleg-shilo/cs-script/wiki/CS-Script---Command-Line-Interface#-vs">Visual Studio</a> (built-in feature via <code>-vs</code> CLI argument)</li>
+<div class="column column" style="background-color:whitesmoke;">
+<h2><a href="https://www.cs-script.net/integration">Development Tools Integration</a></h2>
+<p>CS-Script also offers comprehensive integration with most common development tools and utilities: 
+</p><ul>
+<li><a href="https://github.com/oleg-shilo/cs-script/wiki/CS-Script---Command-Line-Interface#-vs">Visual Studio</a> (built-in feature via <code>-vs</code> CLI argument)</li>
            
-            <li><a href="https://github.com/oleg-shilo/cs-script.vscode">VSCode</a></li>
-            <li><a href="https://github.com/oleg-shilo/cs-script-sublime">Sublime Text 3</a></li>
-            <li><a href="https://github.com/oleg-shilo/cs-script.npp">Notepad++</a> .</li>
-            <li><em>Shells:</em></li>
-            <ul dir="auto">
-              <li>Command Prompt </li>
-              <li>Bash shell</li>
-              <li>Chocolaty</li>
-              <li>Windows Explorer</li>
-            </ul>
-          </ul>
-          <p></p>
-        </div>
-    </i>
+<li><a href="https://github.com/oleg-shilo/cs-script.vscode">VSCode</a></li>
+<li><a href="https://github.com/oleg-shilo/cs-script-sublime">Sublime Text 3</a></li>
+<li><a href="https://github.com/oleg-shilo/cs-script.npp">Notepad++</a> .</li>
+<li><em>Shells:</em></li>
+<ul dir="auto">
+<li>Command Prompt </li>
+<li>Bash shell</li>
+<li>Chocolaty</li>
+<li>Windows Explorer</li>
+</ul>
+</ul>
+<p></p>
+</div>
+</i>
 </div>
 
 <hr/>
