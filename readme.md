@@ -19,7 +19,8 @@
         <h2><a href="https://www.cs-script.net/integration">Development Tools Integration</a></h2>
           <p>CS-Script also offers comprehensive integration with most common development tools and utilities: 
           </p><ul>
-            <li>Visual Studio (built-in feature via <code>-vs</code> CLI argument)</li>
+            <li><a href="https://github.com/oleg-shilo/cs-script/wiki/CS-Script---Command-Line-Interface#-vs">Visual Studio</a> (built-in feature via <code>-vs</code> CLI argument)</li>
+           
             <li><a href="https://github.com/oleg-shilo/cs-script.vscode">VSCode</a></li>
             <li><a href="https://github.com/oleg-shilo/cs-script-sublime">Sublime Text 3</a></li>
             <li><a href="https://github.com/oleg-shilo/cs-script.npp">Notepad++</a> .</li>
