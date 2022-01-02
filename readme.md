@@ -24,7 +24,7 @@
             <li><a href="https://github.com/oleg-shilo/cs-script.vscode">VSCode</a></li>
             <li><a href="https://github.com/oleg-shilo/cs-script-sublime">Sublime Text 3</a></li>
             <li><a href="https://github.com/oleg-shilo/cs-script.npp">Notepad++</a> .</li>
-            <li><em>Shells:</em>
+            <li><em>Shells:</em></li>
             <ul dir="auto">
               <li>Command Prompt </li>
               <li>Bash shell</li>
