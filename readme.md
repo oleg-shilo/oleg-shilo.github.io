@@ -16,7 +16,7 @@
 <div class="column column-space"></div>
         
 <div class="column column" style="background-color:whitesmoke;">
-<h2><a href="https://www.cs-script.net/integration">Development Tools Integration</a></h2>
+<h2>Development Tools Integration</h2>
 <p>CS-Script also offers comprehensive integration with most common development tools and utilities: 
 </p><ul>
 <li><a href="https://github.com/oleg-shilo/cs-script/wiki/CS-Script---Command-Line-Interface#-vs">Visual Studio</a> (built-in feature via <code>-vs</code> CLI argument)</li>
