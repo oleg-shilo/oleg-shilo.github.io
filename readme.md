@@ -1,13 +1,14 @@
 <img align="right" id="logo" src="" alt="" style="float:right"/>
 
-# CS-Script Branches 
+# CS-Script Product Branches 
 
 <!-- [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://oleg-shilo.github.io/cs-script/Donation.html) -->
 
 <div class="row">
 <i>
 <div class="column" style="background-color:whitesmoke; ">
-<h2><a href="https://oleg-shilo.github.io/cs-script">CS-Script Engine</a></h2>
+<h2>Script Engine</h2>
+<a href="https://oleg-shilo.github.io/cs-script">GitHub home page</a>
 <p> CS-Script is one of the most mature C# scripting solutions. It became publicly available in 2004, just two years after the first release of .NET.</p>
 <p>CS-Script supports both hosted and standalone execution model. This makes it possible to use the script engine as a pure C# alternative for PowerShell or Bash. As well as extending .NET applications with C# scripts executed at runtime by the hosted script engine.</p>
 <p>It can be run on Win, Linux and Mac.  And it is compatible with .NET 5/Core and higher.</p>
