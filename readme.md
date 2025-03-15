@@ -96,7 +96,6 @@ SayHello("Hello again!");
 _**Executing script from shell**_
 
 Updating media file tags. 
-Note, the script is using optional classless layout.
 
 _Script file: `mp4_retag.cs`_
 
@@ -107,21 +106,20 @@ using System.IO;
 
 string source = @"\\media-server\tv_shows\Get Smart\Season1";
 
-void main()
+foreach (string file in Directory.GetFiles(source, "*.mp4"))
 {
-    foreach (string file in Directory.GetFiles(source, "*.mp4"))
-    {
-        string episode_name = Path.GetFileNameWithoutExtension(file);
+    string episode_name = Path.GetFileNameWithoutExtension(file);
 
-        var mp4 = TagLib.File.Create(file);
-        mp4.Tag.Title = episode_name;
-        mp4.Save();
+    var mp4 = TagLib.File.Create(file);
+    mp4.Tag.Title = episode_name;
+    mp4.Save();
 
-        Console.WriteLine(episode_name);
-    }
+    Console.WriteLine(episode_name);
 }
 ```
+
 Execute script file directly in cmd-prompt without building an executable assembly:
-```
+
+```ps
 C:\Temp>cscs mp4_retag.cs
 ```
